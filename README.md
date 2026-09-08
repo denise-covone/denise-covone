@@ -16,5 +16,10 @@ Benvenuto nel mio portfolio GitHub. Sono laureata in Lettere Moderne e specializ
 
 ### 3. Edizione Digitale ed Esegesi in XML-TEI (*I Malavoglia*)
 * **Descrizione:** Progetto di filologia digitale incentrato sulla marcatura semantica, lessicografica ed esegetica del capitolo XV de *I Malavoglia* di Giovanni Verga. Comprende la strutturazione dell'apparato critico, la mappatura dei proverbi popolari e il raccordo con fonti lessicografiche ed esegetiche secondo gli standard internazionali TEI P5.
-* **Tecnologie usate:** XML-TEI P5, RelaxNG, Schematron
+* **Tecnologie usate:** XML-TEI P5
 * **📂 [Vedi il progetto di codifica TEI](https://github.com/denise-covone/tei-malavoglia-cap15)**
+
+### 4. Modellizzazione Prosopografica in XML-TEI (*La Lupa*)
+* **Descrizione:** Codifica digitale e strutturazione prosopografica della novella verghiana *La Lupa*. Il modello struttura le entità onomastiche e toponomastiche e mappa le tematiche dell'anticonformismo femminile, della superstizione e del patriarcato rurale ottocentesco.
+* **Tecnologie usate:** XML-TEI P5
+* **📂 [Vedi il progetto La Lupa](https://github.com/denise-covone/tei-la-lupa)**
