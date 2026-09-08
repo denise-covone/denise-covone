@@ -22,4 +22,4 @@ Benvenuto nel mio portfolio GitHub. Sono laureata in Lettere Moderne e specializ
 ### 4. Modellizzazione Prosopografica in XML-TEI (*La Lupa*)
 * **Descrizione:** Codifica digitale e strutturazione prosopografica della novella verghiana *La Lupa*. Il modello struttura le entità onomastiche e toponomastiche e mappa le tematiche dell'anticonformismo femminile, della superstizione e del patriarcato rurale ottocentesco.
 * **Tecnologie usate:** XML-TEI P5
-* **📂 [Vedi il progetto La Lupa](https://github.com/denise-covone/tei-la-lupa)**
+* **📂 [Vedi il progetto La Lupa](https://github.com/denise-covone/verga-la-lupa-tei)**
